@@ -59,7 +59,7 @@ span {
     border: 1px solid #e74c3c;
     border-radius: 10px;
     text-align: center;
-    background: white;
+    background: #e7dad8;
     width: 420px;
     height: 200px;
     z-index: 1;
@@ -231,7 +231,7 @@ span {
         border: 1px solid #e74c3c;
         border-radius: 10px;
         text-align: center;
-        background: #e0bab7;
+        background: #e7dad8;
         z-index: 1;
         transition: 0.5s;
         display: none;
